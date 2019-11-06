@@ -7,3 +7,7 @@ https://getintodevops.com
 
 
 https://info.crunchydata.com/blog/easy-postgresql-10-and-pgadmin-4-setup-with-docker
+
+
+registry=http://your-host:8081/repository/npm-group/
+_auth=YWRtaW46YWRtaW4xMjM=
